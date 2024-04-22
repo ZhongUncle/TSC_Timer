@@ -24,3 +24,7 @@ duration = 75000 ns
 `duration` is from `clock_gettime()`, it is a comparison.
 
 You can see the result `TSC time` from `tsc_timer` is closely to `duration`.
+
+
+## Bugs
+If you find a bug, please report it!
