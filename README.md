@@ -25,6 +25,12 @@ duration = 75000 ns
 
 You can see the result `TSC time` from `tsc_timer` is closely to `duration`.
 
+## Details & Explanations
+If you want to know more details and explanations, please read my blog:
+[How to Measure Execution Time with rdtsc and C/C++: Using Inline Assembly and Retrieving CPU TSC Clock Frequency - ZhongUncle‘s blog](https://zhonguncle.github.io/blogs/ef42ec535b362342be65d9acc8a1c98f.html)
+[如何使用rdtsc和C/C++来测量运行时间（如何使用内联汇编和获取CPU的TSC时钟频率）- ZhongUncle CSDN](https://blog.csdn.net/qq_33919450/article/details/137979409)
 
 ## Bugs
 If you find a bug, please report it!
+
+
